@@ -1,0 +1,18 @@
+{
+  // Ganti "AIzaSyDqVfvGKFo-DpUsCj9QmbYkmiU-YDGeZ0A" dengan kunci AI Anda untuk fitur chatbot.
+  "geminiApiKey": "AIzaSyDqVfvGKFo-DpUsCj9QmbYkmiU-YDGeZ0A", 
+  
+  // Ganti "kevinxrivanyaa(janganngakungakupunyakamu🤣🤣🤣)" dengan password yang hanya Anda ketahui.
+  // Ini adalah password yang digunakan saat login sebagai admin.
+  "adminHash": "kevinxrivanyaa(janganngakungakupunyakamu🤣🤣🤣)", 
+  
+  // Ini adalah konfigurasi Firebase yang sudah Anda berikan.
+  "firebaseConfig": {
+    "apiKey": "AIzaSyB2V2mZyPrQyJ5FPAFN_mBVEteGmrdHY2o", 
+    "authDomain": "rikev-company.firebaseapp.com",
+    "projectId": "rikev-company",
+    "storageBucket": "rikev-company.firebasestorage.app",
+    "messagingSenderId": "23435711652",
+    "appId": "1:23435711652:web:de1901fd16cf62aaba0231"
+  }
+}
